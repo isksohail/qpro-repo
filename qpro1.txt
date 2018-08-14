@@ -1,4 +1,5 @@
 the main reason this qpro folder is established is to:
 1.commit
 2.push
-3.be edited
+3.keep change in source code history
+4.learn github.
